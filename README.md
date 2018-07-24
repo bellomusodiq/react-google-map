@@ -1,2 +1,2 @@
 # react-google-map
-#opean the index.html file
+#open the index.html file on browser and ensure you have internet connection
